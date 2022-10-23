@@ -106,11 +106,11 @@ if (score > 50) {
   console.log("tidak lulus");
 }
 
-const scoremtk = 40;
+const scoremtk = 50;
 if (scoremtk > 80 && scoremtk < 100) {
   console.log("sangat memuaskan");
 } else if (scoremtk > 50) {
-  console.log("lulus memuaskan");
+  console.log("lulus");
 } else if (scoremtk < 50) {
   console.log("tidak lulus");
 }
